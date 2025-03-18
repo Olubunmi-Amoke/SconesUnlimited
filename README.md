@@ -6,8 +6,7 @@ This project focuses on building and deploying an image classification model usi
 
 **Data Source**
 
-The CIFAR dataset is publicly available and hosted by the University of Toronto:
-[https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz](#Download CIFAR-100)
+The CIFAR dataset is publicly available and hosted by the University of Toronto: https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
 
 **Project Scope**
 
