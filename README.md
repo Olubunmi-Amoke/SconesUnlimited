@@ -14,12 +14,15 @@ ETL (Extract, Transform, Load)
 - Extract data from a hosting service
 - Transform data into a suitable format
 - Load data into a production system
+  
 Model Training & Deployment
 - Train an image classification model using AWS SageMaker
 - Deploy the model as a SageMaker Endpoint
+  
 Workflow Automation
 - Implement AWS Lambda functions
 - Orchestrate the workflow with AWS Step Functions
+  
 Monitoring & Evaluation
 - Use SageMaker Model Monitor for endpoint performance tracking
 - Conduct performance analysis and visualization
