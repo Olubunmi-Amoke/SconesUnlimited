@@ -28,4 +28,5 @@ Monitoring & Evaluation
 - Conduct performance analysis and visualization
   
 **Conclusion**
+
 This project delivers an event-driven ML workflow integrated into the Scones Unlimited production system. The SageMaker Estimator API was used for model deployment, while AWS Lambda and Step Functions automated the workflow. Additionally, SageMaker Model Monitor enabled real-time observation of the deployed model. Finally, a visualization was created to help stakeholders assess model performance over time.
